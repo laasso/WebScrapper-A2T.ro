@@ -8,7 +8,6 @@ import os
 class WebScraper:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
-        self.options.add_argument('--headless')  # To run in headless mode (without opening a browser window)
         self.driver = webdriver.Chrome(options=self.options)
 
     def scrape(self, url, csv_filename):
@@ -18,6 +17,9 @@ class WebScraper:
         # Wait for a few seconds to ensure that the page is fully loaded (you can adjust the time as needed)
         time.sleep(5)
 
+        #Wait X second to login to get the spoecial geust price
+        time.sleep(1)
+        print("Start Scrapping")
         # Simulate scrolling down to load more elements
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:
@@ -50,9 +52,8 @@ class WebScraper:
                 # Extract product price
                 price = product.find_element(By.CLASS_NAME, 'price').text.strip()
                 parts = price.split()
-                price_comma = parts[0]
-                price = price_comma.replace(',', '.')
-
+                price = parts[0] + "." + parts[2]
+                print(price)
                 writer.writerow([name, price])
 
         print("All products from {} have been saved in {}.".format(url, csv_path))
