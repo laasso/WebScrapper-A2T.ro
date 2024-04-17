@@ -8,53 +8,53 @@ import os
 class WebScraper:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
-        self.options.add_argument('--headless')  # Para ejecutar en modo sin cabeza (sin abrir una ventana de navegador)
+        self.options.add_argument('--headless')  # To run in headless mode (without opening a browser window)
         self.driver = webdriver.Chrome(options=self.options)
 
     def scrape(self, url, csv_filename):
-        # Cargar la página web
+        # Load the web page
         self.driver.get(url)
 
-        # Esperar unos segundos para asegurarse de que la página se cargue completamente (puedes ajustar el tiempo según sea necesario)
+        # Wait for a few seconds to ensure that the page is fully loaded (you can adjust the time as needed)
         time.sleep(5)
 
-        # Simular desplazamiento hacia abajo para cargar más elementos
+        # Simulate scrolling down to load more elements
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:
-            # Desplazarse hacia abajo
+            # Scroll down
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            # Esperar a que se carguen los nuevos elementos
+            # Wait for new elements to load
             time.sleep(2)
-            # Calcular nueva altura de la página
+            # Calculate new height of the page
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
                 break
             last_height = new_height
 
-        # Encontrar todos los elementos que contienen los detalles de los productos
-        productos = self.driver.find_elements(By.CLASS_NAME, 'product-item')
+        # Find all elements containing product details
+        products = self.driver.find_elements(By.CLASS_NAME, 'product-item')
 
-        # Crear un archivo CSV en la ruta especificada
-        csv_path = os.path.join(csv_filename)  # Reemplaza "ruta" con la ruta específica
+        # Create a CSV file at the specified path
+        csv_path = os.path.join(csv_filename)  # Replace "path" with the specific path
         with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-            # Crear el escritor CSV
+            # Create the CSV writer
             writer = csv.writer(csvfile)
-            # Escribir encabezados
+            # Write headers
             writer.writerow(['Product', 'Price'])
 
-            # Iterar sobre los elementos de productos y extraer nombres y precios
-            for producto in productos:
-                # Extraer nombre del producto
-                nombre = producto.find_element(By.CLASS_NAME, 'product-item-link').text.strip()
+            # Iterate over product elements and extract names and prices
+            for product in products:
+                # Extract product name
+                name = product.find_element(By.CLASS_NAME, 'product-item-link').text.strip()
 
-                # Extraer precio del producto
-                precio = producto.find_element(By.CLASS_NAME, 'price').text.strip()
+                # Extract product price
+                price = product.find_element(By.CLASS_NAME, 'price').text.strip()
 
-                # Escribir en el archivo CSV
-                writer.writerow([nombre, precio])
+                # Write to CSV file
+                writer.writerow([name, price])
 
-        print("Todos los productos de {} han sido guardados en {}.".format(url, csv_path))
+        print("All products from {} have been saved in {}.".format(url, csv_path))
 
     def close(self):
-        # Cerrar el navegador
+        # Close the browser
         self.driver.quit()

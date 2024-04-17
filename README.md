@@ -41,7 +41,7 @@ The scraper will collect product data and save it to CSV files in the `CSV` fold
 
 Here is a screenshot of the scraper in action:
 
-![Scraper Screenshot](screenshots/scraper_screenshot.png)
+![Scraper Screenshot](READMEfiles/scrap.png)
 
 ## Contributions
 
