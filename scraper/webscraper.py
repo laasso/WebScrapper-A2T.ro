@@ -9,6 +9,9 @@ class WebScraper:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
         self.driver = webdriver.Chrome(options=self.options)
+        time.sleep(60)
+        print("Starting scrapping")
+
 
     def scrape(self, url, csv_filename):
         # Load the web page
