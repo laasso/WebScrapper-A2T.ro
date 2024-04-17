@@ -1,3 +1,3 @@
-https://www.example1.com, products1.csv
+https://www.a2t.ro/kituri-supraveghere-video, CSV/kituri-supraveghere-video.csv
 https://www.example2.com, products2.csv
 https://www.example3.com, products3.csv
