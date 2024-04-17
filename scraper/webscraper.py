@@ -1,7 +1,9 @@
+# scraper/webscraper.py
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import csv
 import time
+import os
 
 class WebScraper:
     def __init__(self):
@@ -32,8 +34,9 @@ class WebScraper:
         # Encontrar todos los elementos que contienen los detalles de los productos
         productos = self.driver.find_elements(By.CLASS_NAME, 'product-item')
 
-        # Crear un archivo CSV
-        with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+        # Crear un archivo CSV en la ruta especificada
+        csv_path = os.path.join("ruta", csv_filename)  # Reemplaza "ruta" con la ruta específica
+        with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
             # Crear el escritor CSV
             writer = csv.writer(csvfile)
             # Escribir encabezados
@@ -50,27 +53,8 @@ class WebScraper:
                 # Escribir en el archivo CSV
                 writer.writerow([nombre, precio])
 
-        print("Todos los productos de {} han sido guardados en {}.".format(url, csv_filename))
+        print("Todos los productos de {} han sido guardados en {}.".format(url, csv_path))
 
     def close(self):
         # Cerrar el navegador
         self.driver.quit()
-
-def read_urls_and_filenames(filename):
-    urls_and_filenames = []
-    with open(filename, 'r') as file:
-        for line in file:
-            url, csv_filename = line.strip().split(',')
-            urls_and_filenames.append((url.strip(), csv_filename.strip()))
-    return urls_and_filenames
-
-# Ejemplo de uso
-def main():
-    scraper = WebScraper()
-    urls_and_filenames = read_urls_and_filenames('INFO/sites&files.txt')
-    for url, csv_filename in urls_and_filenames:
-        scraper.scrape(url, csv_filename)
-    scraper.close()
-
-if __name__ == "__main__":
-    main()
