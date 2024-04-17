@@ -10,6 +10,7 @@ class WebScraper:
         self.options = webdriver.ChromeOptions()
         self.driver = webdriver.Chrome(options=self.options)
 
+
     def scrape(self, url, csv_filename):
         # Load the web page
         self.driver.get(url)
@@ -17,6 +18,9 @@ class WebScraper:
         # Wait for a few seconds to ensure that the page is fully loaded (you can adjust the time as needed)
         time.sleep(5)
 
+        # Wait 60 seconds to make the login to charge special prices for X account
+        time.sleep(60)
+        print("Starting scrapping")
         # Simulate scrolling down to load more elements
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:
