@@ -35,7 +35,7 @@ class WebScraper:
         productos = self.driver.find_elements(By.CLASS_NAME, 'product-item')
 
         # Crear un archivo CSV en la ruta especificada
-        csv_path = os.path.join("ruta", csv_filename)  # Reemplaza "ruta" con la ruta específica
+        csv_path = os.path.join(csv_filename)  # Reemplaza "ruta" con la ruta específica
         with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
             # Crear el escritor CSV
             writer = csv.writer(csvfile)
