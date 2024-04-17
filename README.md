@@ -1,5 +1,7 @@
 # WebScraper-A2T.ro
 
+(READMEfiles/logo.png)
+
 This project is a web scraper designed specifically for the website [A2T.ro](https://www.a2t.ro/), which is a security company specialized in CCTV systems, security cameras, alarm systems, and other related products.
 
 The web scraper gathers information about various products available on the A2T.ro website, such as surveillance kits, IP cameras, security accessories, alarm systems, home automation, access control, intercoms, fire alarm systems, sound systems, electrical installations, networks, and telephony, among others.
