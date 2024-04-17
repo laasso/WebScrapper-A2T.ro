@@ -49,8 +49,10 @@ class WebScraper:
 
                 # Extract product price
                 price = product.find_element(By.CLASS_NAME, 'price').text.strip()
+                parts = price.split()
+                price_comma = parts[0]
+                price = price_comma.replace(',', '.')
 
-                # Write to CSV file
                 writer.writerow([name, price])
 
         print("All products from {} have been saved in {}.".format(url, csv_path))
