@@ -8,7 +8,6 @@ import os
 class WebScraper:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
-        self.options.add_argument('--headless')  # To run in headless mode (without opening a browser window)
         self.driver = webdriver.Chrome(options=self.options)
 
     def scrape(self, url, csv_filename):
