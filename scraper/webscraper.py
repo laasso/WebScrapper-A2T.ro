@@ -17,9 +17,10 @@ class WebScraper:
         # Wait for a few seconds to ensure that the page is fully loaded (you can adjust the time as needed)
         time.sleep(5)
 
-        #Wait X second to login to get the spoecial geust price
-        time.sleep(1)
+        # Wait X second to login to get the spoecial geust price
+        time.sleep(60)
         print("Start Scrapping")
+
         # Simulate scrolling down to load more elements
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:

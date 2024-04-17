@@ -9,4 +9,4 @@ https://www.a2t.ro/interfoane-videointerfoane, ../CSV/interfoane-videointerfoane
 https://www.a2t.ro/sisteme-antiincendiu, ../CSV/sisteme-antiincendiu.csv
 https://www.a2t.ro/sisteme-de-sonorizare, ../CSV/sisteme-de-sonorizare.csv
 https://www.a2t.ro/instalatii-electrice, ../CSV/instalatii-electrice.csv
-https://www.a2t.ro/retele-si-telefoniee, ../CSV/retele-si-telefonie.csv
+https://www.a2t.ro/retele-si-telefonie, ../CSV/retele-si-telefonie.csv
