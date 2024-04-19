@@ -1,12 +1,4 @@
-https://www.a2t.ro/kituri-supraveghere-video, ../CSV/kituri-supraveghere-video.csv
-https://www.a2t.ro/camere-supraveghere-ip, ../CSV/camere-supraveghere-ip.csv
-https://www.a2t.ro/accesorii-supraveghere, ../CSV/accesorii-supraveghere.csv
-https://www.a2t.ro/sisteme-alarma, ../CSV/sisteme-alarma.csv
-https://www.a2t.ro/casa-inteligenta, ../CSV/casa-inteligenta.csv
-https://www.a2t.ro/automatizari-porti, ../CSV/automatizari-porti.csv
-https://www.a2t.ro/control-acces-pontaj, ../CSV/control-acces-pontaj.csv
-https://www.a2t.ro/interfoane-videointerfoane, ../CSV/interfoane-videointerfoane.csv
-https://www.a2t.ro/sisteme-antiincendiu, ../CSV/sisteme-antiincendiu.csv
-https://www.a2t.ro/sisteme-de-sonorizare, ../CSV/sisteme-de-sonorizare.csv
-https://www.a2t.ro/instalatii-electrice, ../CSV/instalatii-electrice.csv
-https://www.a2t.ro/retele-si-telefonie, ../CSV/retele-si-telefonie.csv
+https://www.a2t.ro/kituri-supraveghere-video, ../filesCSV/CSV/kituri-supraveghere-video.csv
+https://www.a2t.ro/supraveghere-video, ../filesCSV/CSV/supraveghere-video.csv
+https://www.a2t.ro/accesorii-supraveghere, ../filesCSV/CSV/SurveillanceAccessories.csv
+https://www.a2t.ro/automatizari-porti, ../filesCSV/CSV/GateAutomations.csv

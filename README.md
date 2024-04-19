@@ -1,6 +1,5 @@
 # WebScraper-A2T.ro
 
-
 ![logo](READMEfiles/logo.png)
 
 This project is a web scraper designed specifically for the website [A2T.ro](https://www.a2t.ro/), which is a security company specialized in CCTV systems, security cameras, alarm systems, and other related products.
@@ -19,23 +18,21 @@ The web scraper gathers information about various products available on the A2T.
 
     git clone https://github.com/laasso/WebScraper-A2T.ro.git
 
-
 2. Install the necessary dependencies. Make sure you have Python installed and the required libraries listed in `requirements.txt`.
 
     pip install -r requirements.txt
 
+    **Note:** This will install Pandas and Selenium, which is necessary for data manipulation and combining CSV files.
 
 3. Set up the Python path if needed. If you have custom paths for your Python environment, make sure to update the `PYTHONPATH` accordingly.
 
     export PYTHONPATH=/your/python/path:$PYTHONPATH
 
-
 4. Run the main script `main.py`.
 
     python3 main/main.py
 
-
-The scraper will collect product data and save it to CSV files in the `CSV` folder.
+    The scraper will collect product data and save it to CSV files in the `CSV` folder.
 
 ## Screenshots
 

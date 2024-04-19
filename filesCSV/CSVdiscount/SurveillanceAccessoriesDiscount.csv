@@ -58,8 +58,8 @@ Stiker Supraveghere video,3.15
 "Patchcord S/FTP Cat 6A, 0.5M, Negru , SFTP6A-0.5M-BL, SAFER",3.39
 "Patchcord SFTP Cat 6A, 0.5M, Rosu, SFTP6A-0.5M-R, SAFER",3.39
 "Patchcord S/FTP Cat 6A, 0.5M, Albastru, SFTP6A-0.5M-B, SAFER",3.39
-"Patchcord S/FTP Cat 6A, 0.5M, Galben , SFTP6A-0.5M-Y, SAFER",3.39
 "Patchcord S/FTP Cat 6A, 0.5M, Verde , SFTP6A-0.5M-G, SAFER",3.39
+"Patchcord S/FTP Cat 6A, 0.5M, Galben , SFTP6A-0.5M-Y, SAFER",3.39
 "Mufa BNC RG6 Compresie, CBN-051 RG6",3.50
 "Fasete de prindere, plastic, 2.5 mm x 100 mm, negre, 100 bucati, V-TAC, SKU-11160",3.50
 "Doza din plastic pentru economizor, ABK-802+K(G), Yli",3.50
@@ -67,14 +67,14 @@ Stiker Supraveghere video,3.15
 "Mufa AC TATA, C14, 250V, AC10A, Safer IEC-320C14",4.00
 "Patchcord S/FTP Cat 6A, 1 Metru, Gri, SAFER, SFTP6A-1M",4.29
 "Patchcord S/FTP Cat 6A, 1 Metru, Verde, SFTP6A-1M-G, SAFER",4.29
-"Patchcord S/FTP Cat 6A, 1 Metru, Rosu, SFTP6A-1M-R, SAFER",4.29
 "Patchcord S/FTP Cat 6A, 1 Metru, Albastru, SFTP6A-1M-B, SAFER",4.29
 "Patchcord S/FTP Cat 6A, 1 Metru, Galben, SFTP6A-1M-Y, SAFER",4.29
+"Patchcord S/FTP Cat 6A, 1 Metru, Rosu, SFTP6A-1M-R, SAFER",4.29
 "Set 100 buc Coliere de plastic de tip Fasete / Soricei, 150x3.5mm, V-Tac, Alb, SKU-11165",4.40
 "Fasete de prindere, plastic, 2.5 mm x 200 mm, albe, 100 bucati, V-TAC, SKU-11163",4.40
 Surubelnita in cruce scurta cap magnetic 38mm,4.40
-"Set 4 suruburi si piulite pentru rack, RACKSCREW4",4.50
 "Pat de cablu 16x16mm, 2 metri cu capac",4.50
+"Set 4 suruburi si piulite pentru rack, RACKSCREW4",4.50
 Mufa METAL RCA TATA,4.71
 "Set bride 2.5MM/ 15CM, negru, 100BUC/ set",4.73
 Set 10 DCM - Mufe alimentare tata pentru camere supraveghere 10XDCM,4.99
@@ -88,11 +88,11 @@ Tester tensiune 220-250V (140mm),5.25
 "Surubelnita cu maner din cauciuc si varf magnetic, Chrome Vanadiu PZ0X75MM 10490",5.50
 "Patchcord retea, CAT6, 1M, Gri, Logilink, CP2032U",5.50
 "Alimentator camera supraveghere 12V 1A in comutatie, AT 12V1A",5.80
-Pachet x10 conectori cu gel pentru conductori curenti slabi Bi-con,5.99
 "BRIDE 200 X 2,5 MM ALBE (100 BUC/SET)",5.99
-"Fasete de prindere, plastic, 2.5 mm x 200 mm, negre, 100 bucati, V-TAC, SKU-11164",6.00
+Pachet x10 conectori cu gel pentru conductori curenti slabi Bi-con,5.99
 "Doza legatura PT Gewiss GW44003, cu presetupe, 80x80x40mm, IP44",6.00
 "Stecher portabil Gewiss GW28011, 2P+E 10/16A, 250Vca, standard german/francez, alb",6.00
+"Fasete de prindere, plastic, 2.5 mm x 200 mm, negre, 100 bucati, V-TAC, SKU-11164",6.00
 Ruleta metalica 2 metri - 13mm,6.40
 "Baterie LongLife R3 AAA Blister 4 buc, Philips, PH-R03L4B/10",6.50
 "Cablu de alimentare AC pentru surse SMPS, ACC2",6.56
@@ -103,8 +103,8 @@ Ruleta metalica 2 metri - 13mm,6.40
 "Patchcord S/FTP Cat 6A, 2 Metri, Gri, SFTP6A-2M, SAFER",6.99
 "Doza derivatie 100 x 100 x 50 mm Gewiss, DOZAGEWISS",6.99
 "Microfon supraveghere video pe fir, JS-601",7.30
-Doza de exterior dedicata CCTV 118x118x55 Cambox Lotus(White),7.40
 Doza dedicata CCTV rotunda 140mm x 113mm x 45mm Cambox MONO JB311(W),7.40
+Doza de exterior dedicata CCTV 118x118x55 Cambox Lotus(White),7.40
 "Cleste pentru sertizat cabluri de retea in priza sau patchpanel, KRONE ISDN-0018",7.50
 "Alimentator camera supraveghere 12V 2A in comutatie, AT 12V2A",7.80
 "BRIDE 200 X 3,6 MM ALBE (100 BUC/SET)",7.88
@@ -152,8 +152,8 @@ Ruleta metalica 5 metri - 25mm,12.50
 "Ruleta Rebel, lungime 5m, latime 25mm, RB-1131",14.00
 "Cablu camere supraveghere BNC + 1 Alimentare 20 m, 2BNC20",14.28
 Set 10 Buc - BNC Tata + F Mama,14.99
-"Set 10 bucati conector, 3 fire, 0.08 mm² la 2.5 mm², W-413",15.00
 "Banda perforata din otel galvanizat 10 metri, anti-rugina, 12x0.7mm, orificiu de 5mm, 01-671 Adeleq",15.00
+"Set 10 bucati conector, 3 fire, 0.08 mm² la 2.5 mm², W-413",15.00
 "Fasete de prindere, plastic, 4.5 mm x 300 mm, negre, 100 bucati, V-TAC, SKU-11174",15.00
 "Protectie supratensiune F TATA F MAMA, ZLA0964",15.50
 Card de memorie pentru stocare video Micro SD 32GB Clasa 10 Dahua TF-C100/32GB,16.00
@@ -163,10 +163,10 @@ Yala pt usile laterale de rack,16.00
 "Incarcator USB 5V 2A, Pentru camere de supraveghere s.a. Gembird EG-UC2A-03-W",16.50
 "Baterie Lithium Blister 1 BUC, Philips, PH-CR123A/01B",16.80
 "Conector ceramic, 16mm2, 450V, 76A, 2 pini, SIMET SI-CPO-30A-2P",17.00
-"Detector tensiune 90-1000V AC, 2x baterii AAA, Rebel MIE-RB-02",17.00
 "Cutie plastic cu presetupe, CUTIE180X110X75",17.00
-"Memorie USB 2.0 ADATA, 32 GB - AUV240-32G-RBK",17.00
+"Detector tensiune 90-1000V AC, 2x baterii AAA, Rebel MIE-RB-02",17.00
 "Sistem de prindere pentru montare DVR/NVR in RACK-urile de tip 19"", Hikvision DS-380/385",17.00
+"Memorie USB 2.0 ADATA, 32 GB - AUV240-32G-RBK",17.00
 "Card MicroSD, 64GB, Clasa 10, citire 95 Mbps, scriere 38 Mbps, IMOU, MICROSD64-IMOU",17.00
 Patchcord retea CAT6 5M Negru PP6U-5M/BK,17.00
 Patchcord Single Mode 3M SC/APC-SC/APC,17.30
@@ -177,10 +177,10 @@ Cleste combinat 200mm Deli EDL2008,17.90
 Cleste patent cioc lung 200mm Deli EDL2108,17.90
 Cleste patent oblic 180mm Deli EDL2207,17.90
 "Card MicroSD, 32GB, Clasa 10, citire 95 Mbps, scriere 25 Mbps, IMOU, MICROSD32-IMOU",18.00
-"Cablu de alimentare AK-PC-02A, 250V, 10A, 1.5m, negru, cu impamantare",18.00
-"Set tuburi termocontractabile, 100 de bucati, lungime 100mm, multicolor, NAR0876",18.00
-Cablu adaptor C14 tata - Schuko mama pentru UPS,18.00
 "Alimentator de exterior, 2.5 A, capsulat, pentru supraveghere video, PA2W",18.00
+Cablu adaptor C14 tata - Schuko mama pentru UPS,18.00
+"Set tuburi termocontractabile, 100 de bucati, lungime 100mm, multicolor, NAR0876",18.00
+"Cablu de alimentare AK-PC-02A, 250V, 10A, 1.5m, negru, cu impamantare",18.00
 Distribuitor alimentare CCTV 8 canale 4A LZ-1,18.00
 "Triplu Stecher, 3500W, 16A, protectie copii, 3 prize Schuko, 1 stecher Schuko, Spacer, SPMS-3-WH",18.00
 "Cablu video, monitor display port (T) la display port (T), rezolutie 4K, lungime 1.8m, CC-DP2-6",18.80
@@ -220,6 +220,7 @@ Patent combinat 200mm manere ergonomice din PVC,23.10
 "Doza rotunda pentru conexiuni, rezistenta la apa IP66, aluminu, Safer, SAF-PFA135",23.21
 "Alimentator USB 5V 2.1A cu 2 porturi si functie Smart Charge, pentru camere video, Smartphone s.a. EG-U2C2A-03-W",24.00
 "CARD MicroSD ADATA 64GB Clasa 10, AUSDX64GUICL10-RA1",24.00
+Cleste universal pentru dezizolare si sertizare fire cuprinse intre 0.75-6.0 28428,24.00
 "Organizator cu capac pentru rack 19 inch, 1U, ORGAN-CAPAC",24.00
 "Doza rotunda din aluminu pentru conexiuni, Safer, SAF-PFA137",24.13
 Pachet 50 x Mufa F,24.99
@@ -229,8 +230,8 @@ Trusa surubelnite 32 de piese,25.00
 "Organizator cu inele pentru rack 19 inch, 5 inele, negru, ORGAN-INELE",25.00
 "Suport Perete TV/LCD/LED/PLASMA, Fix, Extra Subtire, 23""-42"", Superior Electronics SUPSTV001",25.00
 "Micro SD 32GB, V10 cu adaptor, 92Mb/s - Hikvision HS-TF-C1STD-32G-A",25.00
-"Doza de conexiuni rotunda, rezistenta la apa IP66, DAHUA, PFA135",25.00
 "Doza rotunda aluminiu Dahua rezistenta la apa, PFA134",25.00
+"Doza de conexiuni rotunda, rezistenta la apa IP66, DAHUA, PFA135",25.00
 Cablu SVGA tata-tata 1.5 m KPO3710-1.5,25.00
 Cablu UTP + Alimentare gata mufat 15 metri UTPPOW15M,25.50
 "Conector rapid cu gel, set 100 bucati",25.99
@@ -250,8 +251,8 @@ Cablu HDMI 4K - 1 metru Baseus Cafule CADKLF-E01,27.00
 "Doza de conexiuni rotunda, aluminiu, PFA136",27.00
 Izolator de bucla Dahua PFM791,27.00
 "Doza de conexiuni rotunda, aluminiu, compatibila cu camerele dome Dahua, Dahua PFA137",27.00
-"Alimentator de exterior 12V- 2A Dahua, PFM300",27.00
 Adaptor montaj pentru camere SPEED DOME DAHUA PFA102,27.00
+"Alimentator de exterior 12V- 2A Dahua, PFM300",27.00
 "Fasete de prindere, plastic, 7.6 mm x 300 mm, negre, 100 bucati, V-TAC, SKU-11178",28.00
 Brat 10 cm pentru montaj doza,28.00
 "Cutie de distributie pentru camere de supraveghere, Hikvision DS-1280ZJ-DM8",28.22
@@ -324,7 +325,6 @@ Doza de distributie Dahua PFA130-E,41.00
 "Doza de conexiuni HIKVISION, DS-1260ZJ",42.35
 "Doza din aluminiu pentru camere de supraveghere, Hikvision DS-1280ZJ-DM46",42.35
 "Doza de conexiuni rotunda Hikvision DS-1280ZJ-DM46(Black), din aluminiu, neagra",42.35
-Cleste universal pentru dezizolare si sertizare fire cuprinse intre 0.75-6.0 28428,43.00
 "Conector IP20 RJ45G, Cat.6a, pentru AWG23, Schrack, HSISR6SI3A",43.00
 Set 7 surubelnite cap magnetic Izolate 1000V,43.00
 "Doza de conexiuni din aluminiu, Alb, Cu presetupa, Potrivita pentru camere de supraveghere, Safer SAF-1280ZJ-XS",43.63
@@ -356,10 +356,10 @@ Cutie plastic cu presetupe CUTIE225X311X99,49.00
 "Cutie de distributie pentru camere de supraveghere Speed Dome, Dahua, din aluminiu, PFA120",49.00
 "Card MicroSD, 128GB, Clasa 10, citire 95 Mbps, scriere 38 Mbps, IMOU, MICROSD128-IMOU",49.00
 "Suport de perete pentru camere PTZ, Hikvision, DS-1294ZJ",49.42
-"Sursa de alimentare 12 V, 10 Ah, 120 W, eficienta 88% SAF-ADZ120-C8",50.00
 "Acumulator Li-Ion NCR18650B, 3400mAh, 3.6V, 6.5A, BAT0665",50.00
-"Tub flexibil copex, gri, colac 50m, Kassinakis 24-45000516",50.00
+"Sursa de alimentare 12 V, 10 Ah, 120 W, eficienta 88% SAF-ADZ120-C8",50.00
 "Sursa de alimentare SAF-ADZ60-C4, 12 V, 5 Ah, 60 W, eficienta 88%",50.00
+"Tub flexibil copex, gri, colac 50m, Kassinakis 24-45000516",50.00
 Tester de priza 230V Uni-t UT07B-EU,50.00
 Alimentator compatibil DVR / NVR Hikvision 12V - 5Ah,50.99
 "Sursa de alimentare in comutatie, 12V, 3A, Mean Well, LRS-35-12",51.00
@@ -389,8 +389,8 @@ Cleste sertizare BNC,55.00
 "CARD MicroSD ADATA 128GB Clasa 10 cu adaptor, AUSDX128GUICL10A1-RA1",56.00
 "Prelungitor cu 6 prize, 16A, 3500W, lungime 1.5m, protectie la supratensiune, URZ3069-1.5",56.00
 Prelungitor 3 X 1.5MM 3 prize 5M intrerupator PS-3X5S,56.00
-"Cablu HDMI, 4K, 10m, negru, Goobay GOOBAY-60626",56.00
 "Prelungitor cu 6 prize, cu protectie, lungime cablu 3 metri, curent maxim 10A, PRP6C3M",56.00
+"Cablu HDMI, 4K, 10m, negru, Goobay GOOBAY-60626",56.00
 Telecomanda OSD UTC Dahua PFM820,56.00
 "Suport montaj pe perete pentru camere de supraveghere Dome Hikvision, DS-1272ZJ-120",56.49
 "Cutie de distributie pentru camere de supraveghere Dome, Hikvision DS-1280ZJ-DM55",56.49
@@ -402,17 +402,17 @@ Tester pentru cablu RJ11/ RJ12/ RJ45,58.00
 Prelungitor 3 X 1.5MM 5 prize 5M intrerupator PS-5X5S,58.00
 Prelungitor 4 posturi cu protectie 3 Metri,58.00
 "Sursa de alimentare in comutatie 24V 15A, Safer SAF-41PA",58.46
+"Masca si accesorii pentru montaj tablouri metalice, compatibil cu 32-400/30, Freder 32-400/3001",59.00
 "Alimentator camera supraveghere 12V 3A, Safer SAF-12V3A-IP67",59.00
 "Sursa de alimentare 12V 5A, cu backup, montaj in sina DIN SAF-DIN60-12UPSZ",59.00
 Pachet 50 x Mufa BNC M - UTP cu surub,59.99
 "Detector de faza fire ingropate 230/380 V, URZ0573",60.00
 "Prelungitor 6 posturi, lungime cablu 3 metri 3x1.5 mm",60.00
 "Fasete de prindere, otel, 4.6 mm x 250 mm, 100 bucati, V-TAC, SKU-11189",60.00
-"Masca si accesorii pentru montaj tablouri metalice, compatibil cu 32-400/30, Freder 32-400/3001",61.00
 "Cutie de distributie pentru camere supraveghere, IP66, Waterproof DAHUA PFA121",61.00
 "Doza conexiuni, rezistenta la apa, DAHUA PFA122",61.00
-"Solid State Disk (SSD) - 120 GB ADATA 2.5"", SATA III, ASU650SS-120GT-R",62.00
 "Extender cablu de retea FTP/UTP pasiv, RJ-45 prin cablul coaxial, max 250m, 100Mbps, EOC-200",62.00
+"Solid State Disk (SSD) - 120 GB ADATA 2.5"", SATA III, ASU650SS-120GT-R",62.00
 "Convertor de tensiune 14-28VAC la 12VDC, 1.5A, EV18-A2412",62.00
 "Sursa de alimentare in comutatie, 4.2 A, 24 V, eficienta 85%, POS Power, POS-100-24-C2",62.00
 "Sursa de alimentare in comutatie, 8.4 A, 12 V, eficienta 85%, POS Power, POS-100-12-C2",62.00
@@ -425,14 +425,14 @@ Brat de montaj camere speed dome Hikvision DS-1602ZJ,63.56
 "Doza de conexiuni, rotunda, aluminiu, pentru camerele de tip DOME Hikvision, DS-1280ZJ-M",63.56
 "Doza din aluminiu pentru camera dome/bullet, Hikvision DS-1280ZJ-S",63.56
 "Suport de stalp pentru camere speedome, DS-1275ZJ",63.56
+"Masca si accesorii pentru montaj tablou metalic, compatibil cu 32-400/40, Freder 32-400/4002",64.00
 "Sursa de alimentare in comutatie, 12V, 6A, Mean Well, LRS-75-12",64.00
 Suport montaj camere supraveghere Dome Hikvision DS-1273ZJ-140,64.00
 "Doza pentru camere de supraveghere Dome si Bullet, 157×185×51.5mm, Safer SAF-1280ZJ-M",64.97
 "PRELUNGITOR cu 6 prize, lungime de 5 metri si protectie 10A PRP6C5M",65.00
 "Suport montaj pe perete pentru camere de supraveghere PTZ Hikvision, DS-1618ZJ",66.00
-"Masca si accesorii pentru montaj tablou metalic, compatibil cu 32-400/40, Freder 32-400/4002",66.00
-"Trepied Stativ foto - video, inaltime maxima 128 cm, ESP-EF109",66.00
 "Splitter video 2 HDMI, DSP-2PH4-03",66.00
+"Trepied Stativ foto - video, inaltime maxima 128 cm, ESP-EF109",66.00
 "Suport camera montaj perete, PFB300S",66.00
 "Card memorie microSD 128GB pentru supraveghere video, Kingston CANVAS GO Plus, 170 Mbps, cu adaptor, U3, V30, SDCG3/128GB",67.00
 Convertor HDMI mama RCA CVBS + Audio KOM0982,67.00
@@ -485,8 +485,8 @@ Videobalun activ receptor 1 canal video,78.00
 Sursa de alimentare cu backup liniara 12V 3Ah configurabila NO/NC AC-12DC3A-P,79.00
 Sursa alimentare cu Back-up 12V-3A ZTP1203B,79.00
 Acumulator 12V Njoy HR09122F pentru UPS-uri profesionale,80.00
-"Acumulator 18650 Li-ion, 3200 mAh, 3.7V, KEEPPOWER, ICR18650-320PCM",80.00
 "Adaptor USB 3.0 TATA la HDMI MAMA, KOM0993",80.00
+"Acumulator 18650 Li-ion, 3200 mAh, 3.7V, KEEPPOWER, ICR18650-320PCM",80.00
 "Sursa de alimentare cu functie de UPS, montaj pe sina DIN, 24V 2.5A, Safer SAF-24-DIN2.5-UPS",80.00
 "Cablu alimentare camere plat 2x0.5 mm, MYYUP2X0.5",80.00
 Cleste sertizat mufe retea si telefonie HT-240T,80.00
@@ -536,8 +536,8 @@ Card de memorie SD 256Gb Kingston Clasa 10 SDCS2/256GB,94.00
 "Stabilizator de tensiune 1000VA, Njoy Paladin 1000, PWAV-10003PL-AZ01B",94.00
 "Sursa de alimentare, 12V, 12.5A / 150W, pentru sisteme de supraveghere, Delta Electronics PMT-12V150W2BA",94.00
 "Tablou cu contrapanou, usa transparenta, din ABS, IP65, 441/3314",94.00
-SPLITTER video VGA -1 X IN - 2 X OUT,95.00
 "Cutie metalica pentru exterior cu incuietoare si garnitura, 250x200x150mm, IP56, accesorii incluse, Freder, 32-400/25",95.00
+SPLITTER video VGA -1 X IN - 2 X OUT,95.00
 Proiector cu senzor de miscare 30W LED IP65 SLIM,95.00
 "Sursa de alimentare in comutatie, 24V, 6.5A, 156W, Mean Well, LRS-150-24",95.00
 "Clampmetru digital 200mV-600V Rebel, MIE-RB-202",95.00
@@ -646,7 +646,6 @@ Convertor audio / video de la AV la HDMI 1080P,139.00
 "Sursa de alimentare in comutatie 24V 25A, Safer SAF-43PA",139.60
 "Cablu UTP CAT5E din cupru, 25AWG, izolatie PVC, rola 100m, Safer ADM-UTP5E-4X2-100M",139.66
 "Raft fix pentru rack 19 inch, prindere reglabila, 1U, DataLink, TAVAF-R8",140.00
-"Trusa Sertizare, cu cleste si 700 conectori, NAR0867",140.00
 "Cutie metalica IP65 300X250X150 cu contrapanou, CAS-300x250x150",141.00
 "Suport din aluminiu pentru camere Dome, 56cm, pana la 3Kg, Hikvision, DS-1471ZJ-155",141.49
 "Copex PVC Gewiss cu sarma, diametru 25mm, rola de 75 de metri",142.00
@@ -657,6 +656,7 @@ SSD 480GB Kingmax Sata 3 KM480GSMV32,145.00
 "Sursa de alimentare 24V, 4.2A, montare pe sina DIN, HDR-100-24N",145.00
 "Raft mobil cu adancimea de 350 mm, Safer, MO80",145.00
 "Sursa de alimentare in comutatie, 24V, 8.8A, eficienta 89.5%, Mean Well, LRS-200-24",146.00
+"Trusa Sertizare, cu cleste si 700 conectori, NAR0867",146.00
 "Sursa de alimentare in comutatie Safer, 2 iesiri, 24V 5A, montare pe sina DIN, SAF-24V5A-DIN",146.00
 "Sursa de alimentare Mean Well HDR-100-12N, 12V, 7.5A, montare pe sina DIN",148.00
 "Adaptor SCART la HDMI, 1 metru, cu adaptor USB 5V, ACT-SCARTHDMI",148.00
@@ -674,12 +674,12 @@ Cablu HDMI - HDMI lungime 15 metri,150.00
 "Cablu prelungitor cu conductor din cupru 3 x 1,5, 20M, cu stecher si cupla, FS-UK2015",155.00
 Pachet 20 x Alimentator 2A 12V pentru camera supraveghere,155.99
 Splitter HDMI 4K - 1 In / 4 Out,156.00
+"Cutie pentru montaj echipamente electronice, Pentru exterior, Aparenta, IP65, 50x40x18cm, 32-440/5018",158.00
 Anemometru - masurare viteza vantului si temperaturii UNI-T UT363S,159.00
 "Sursa de supraveghere 12V 10 amperi, 9 iesiri protejate, back-up, SAF-XZS120-12-9",159.00
 "Trusa instrumente de retea EZ, HS-T01EK",159.00
 "Cablu de retea UTP Cat6, CCA, 305 metri, Safer, SAF-UTPCCA-CAT6-305M",159.00
 "Sursa de alimentare cu backup liniara 12V 2A, ABK-902-12-3",161.00
-"Cutie pentru montaj echipamente electronice, Pentru exterior, Aparenta, IP65, 50x40x18cm, 32-440/5018",163.00
 Sursa alimentare 12V-10A cu 9 iesiri protejate ZTS1210-09F,163.00
 "Cablu coaxial RG6 cu alimentare 2x0,75, rola 200 de metri TW200SCCA",163.00
 "Sursa de alimentare petru instalatii LED, Mean Well, 24V @ 6.3A ~ 150W, interior / exterior, IP67, cu protectie, LPV-150-24",164.00
@@ -707,7 +707,6 @@ Tester de continuitate cablu de retea sau telefonic UNI-T UT682,179.00
 "Switch cu management 4 porturi PoE, 60W, Hikvision DS-3E1106HP-EI",179.00
 Tambur prelungitor 25 metri cu 4 prize,180.00
 Cutie metalica IP65 400X300X200 cu contrapanou CAS-400X300X200,180.00
-"Cablu UTP CAT6 din cupru, 24AWG, izolatie PVC, rola 100m, Safer ADM-UTP6-4X2X0.51-100M",181.64
 Kit accesorii sisteme de supraveghere 4 camere,181.99
 "Sursa de alimentare pe sina DIN, 12V, 11.3A, 150W, eficienta 89%, Mean Well, HDR-150-12",182.00
 "Prelungitor 25 metri, 4 prize, tambur, IP 44",183.75
@@ -776,7 +775,6 @@ Cablu coaxial RG6U cu sufa - Rola 305 metri MCS305,239.00
 "Patch Panel 1U FTP CAT5e, 24 de porturi RJ45, 150V, 1.5A, ASY-PP-FTP5E-24",255.00
 "Rack 6U, 19"", 600x450mm, montaj pe perete, SAFER, RACK6U",255.00
 "Prelungitor 6 posturi Shuko si 5 USB, 2 metri, Philips PH-SPN7060WA",259.00
-Cablu coaxial 75 CU+CU+2x0.5mm 100M KAB0546,259.00
 Cooler rack cu doua ventilatoare si termostat RACKFAN2,259.00
 "Doza pentru supraveghere, rezistenta la apa, Dahua PFA140",260.00
 "Cablu MYYM CCA 4x1mm 100m/rola, MYYM4X1",260.00
@@ -801,8 +799,8 @@ Nivela Laser max 10m UNI-T LM570LD-II,269.00
 "Hard Disk pentru supraveghere video, 2 Terra Bytes, Western Digital Purple, HDD 2TB WD23PURZ",285.00
 "Rack de perete 6U, SOHO, 545x400mm, 19 Inch, SAFER, RACK6USOHO",285.00
 "Sursa de alimentare cu back-up, 12v, 20A, 18 iesiri protejate SAF-XWU250-12-18",285.00
-Suport stalp cu doza inclusa Hikvision DS-1604ZJ-BOX-POLE,285.22
 "Picior cu doza pentru montarea camerelor speed dome pe colt, din metal, Hikvision DS-1604ZJ-BOX-CORNER",285.22
+Suport stalp cu doza inclusa Hikvision DS-1604ZJ-BOX-POLE,285.22
 "Cablu de alimentare flexibil Myym, rola 100m, 3x1,5 mm",286.00
 "Patch Panel pentru fibra optica rackabil, 1U 19"", 24x SC/APC + 24x Pigtail, APP06-24-SC/APC-FULL",288.00
 Cutie ABS cu incuietoare si contrapanou metalic 50X70X22 cm,288.00
@@ -811,8 +809,8 @@ Clampmetru digital de tip furculita UNI-T UT256A,289.00
 "Rack de perete 9U, SOHO, 545x400mm, 19 Inch, RACK9USOHO",289.00
 Detector scurgeri de gaz cu alarma Habotest HT601B,290.00
 Hard disk Extern 1TB Western Digital pe USB pentru export video WDBUZG0010BBK-WESN,291.00
-"UPS cu stabilizator, 900VA/500W, cu ecran LCD, 2 x Schuko, TED TED003942",293.00
 Cutie metalica IP65 600X400X200 cu contrapanou,295.00
+"UPS cu stabilizator, 900VA/500W, cu ecran LCD, 2 x Schuko, TED TED003942",297.00
 "Videobalun 16 canale Dahua Pasiv, 4K, HDCVI/AHD/HDTVI/CVBS PFM809-4MP",297.00
 Sursa 48V - 2.5Ah montaj pe sina DIN Mean Well SDR-120-48,298.00
 "Hard Disk 2TB, 5400 rpm, Seagate Skyhawk, ST2000VX017",299.00
@@ -853,10 +851,9 @@ Rack 19 inci 12U montaj pe perete 600X450 RACK12U,359.00
 Tambur prelungitor 50 metri cu 4 prize,375.00
 Sursa de alimentare cu backup 12V - 300W Pulsar PSB-30012200,378.00
 "Cablu ignifug CYY-F 3 x 1,5mm Rola 100m",380.00
-Ups cu stabilizator (AVR) incorporat 800VA Njoy Token 800 UPCSBLS680TTOAZ01B,381.00
 "Cablu de retea UTP, Cat5e, OFC, 305 metri, Dahua PFM920I-5EU-C",381.00
+Ups cu stabilizator (AVR) incorporat 800VA Njoy Token 800 UPCSBLS680TTOAZ01B,383.00
 Ups 1000VA/600W cu AVR si 4 prize Njoy Keen 1000 UPLI-LI100KE-CG01B,383.00
-"Hard Disk 4TB, Seagate, Skyhawk ST4000VX015, pentru supraveghere video",389.00
 Trusa combinata de scule 144 piese,390.00
 "Cablu de alimentare flexibil cu fire de cupru, Myym 3x1,5 mm, Negru",390.00
 "Detector de rotatie a fazelor pentru motoare electrice, UNI-T UT261A",391.00
@@ -864,6 +861,7 @@ Trusa combinata de scule 144 piese,390.00
 "Hard Drive extern ADATA, 2TB, Albastru, HDD AHD710P-2TU31-C(Blue)",394.00
 "Monitor pentru supraveghere HD 1600x900, diagonala 19.5"" inci (49.50cm), 12V, 1xHDMI, 1xVGA, Dahua, LM19-L200",397.00
 "Monitor AOC 21.5 inch, Full HD, E2270SWN",397.00
+"Hard Disk 4TB, Seagate, Skyhawk ST4000VX015, pentru supraveghere video",399.00
 Pachet 10 alimentatori 5Ah pentru camere de supraveghere,399.99
 Multimetru digital profesional UNI-T UT17B PRO,400.00
 "Hard Disk 3 terra bytes, Western Digital HDD 3TB, 3.5"", cache 256MB, WD33PURZ",408.00
@@ -954,16 +952,16 @@ Ups 2000VA/1200W cu AVR si 4 prize Njoy Keen 2000 UPLI-LI200KE-CG01B,569.00
 "Hard Disk extern 4TB, 2.5"", USB 3.1, ADATA Durable HD650, AHD650-4TU31-CBK",595.00
 "Panou Solar, 60W, 16V, Acumulatori inclusi de 30 Ah, Safer SAF-SOL60W30AH",600.00
 "Monitor LED IPS Full HD, cu diagonala 24 inch / 60cm, interfata HDMI, VGA, Jack 3.5mm, LG 24-MK430H-B",603.00
-UPS 2000VA Njoy Horus Plus 2000 PWUP-LI200H1-AZ01B,604.00
+UPS 2000VA Njoy Horus Plus 2000 PWUP-LI200H1-AZ01B,606.00
 "Monitor LG Full HD, Diagonala 21.5"" ( 54.6cm), Tehnologie VA, Interfata HDMI, VGA, 22MP410P-B.AEU",608.00
 "Rack de perete 12U, 19"", 600x600mm, negru, XCAB Xcab-12U60S.9004",609.00
+"UPS sinusoida pura pentru centrale termice Njoy Aira 600, UPCSTLP860TAICP01B",614.00
 "Cablu UTP CAT6, Conductor cupru, 23 AWG, 305m, Dahua PFM920-6U",620.00
 Hard disk Extern 4TB ADATA pe USB pentru export video AHD710P-4TU31-CBK,620.00
 Tester pentru intrerupatoare automate RCD UNI-T UT582+,620.00
 "Monitor LED Philips 21.5 inch, Full HD, 223V5LSB2/10",620.00
 "Cablu UTP CUPRU pentru exterior, Cat 6E TAMBUR CAB-LC3110B-E-IN",626.00
 "Rack 22U, 19'', Negru 600X600mm, montaj pe perete, SAFER, RACK22U6060",629.00
-Ups sinusoida pura pentru centrale termice Njoy Aira 600,630.00
 Cablu coaxial cu GEL Tambur 305 m KAB0020,644.00
 "Hard Disk 6TB, Seagate Skyhawk ST6000VX008, cache 256MB, pentru supraveghere video",646.00
 Monitor 22 LED audio inclus 6.5 ms VGA si HDMI 1080P SAF-MNT22-FHD-V2,655.00
@@ -986,7 +984,7 @@ Aparat laser de masurare distanta / inaltime / viteza Uni-t LM1000,685.00
 "Monitor supraveghere 31.5″, home office, LED, Full HD, HDMI, VGA, Hikvision DS-D5032QE",728.00
 Cablu MYYM 3x4mm 100 metri per rola,730.00
 Multimetru universal profesional UNIT UT195DS,731.00
-Carcasa rackabila pentru max 14 mediaconvertoare 2U,733.95
+"Carcasa rackabila pentru max 14 mediaconvertoare 2U, OM-14",733.95
 "Cablu UTP cu alimentare, Siamez CAT 5e, 8 fire Cupru + 2x0.75, rola de 305M, Q5+UTPCUCAT5Q5+POWER",735.00
 "Hard Disk 6 Tera Seagate SkyHawk Surveillance Edition, ST6000VX009",745.00
 "Cutie metalica IP66 600x300x600 mm cu contrapanou, MAS0606030PER5",751.00
@@ -1090,8 +1088,8 @@ Cablu SFTP Cat7 1000MHz LS0H 23AWG Rola 500M SFTPCAT7500 SCHRACK HSKP423HP/500,1
 "Ups 2000VA/1800W cu dubla conversie, unda sinusoidala pura, management, ecran LCD, 4x Acumulator 12V 9Ah, TED Electric, TED003980",1992.00
 "Tester 5MP (4K) pentru camere IP, HD-TVI, HD-CVI, AHD T-4300MADH+",1994.00
 Cablu FTP cat7 Cupru Tambur 500M SCHRACK HSKP423HB/500,2130.00
+Ups 3000VA Aten PRO 3000 PWUP-OL300AP-AZ01B,2168.00
 "Panou solar 100W cu baterie de 512Wh (40Ah) inclusa, pentru camere de supraveghere, iesire 12V @ 5.55 A, IP67, SOLARKIT-BATT-512WH",2396.91
-Ups 3000VA Aten PRO 3000 PWUP-OL300AP-AZ01B,2202.00
 "UPS Rackabil 2U, 2000VA 1800W, sinusoidala pura, online cu dubla conversie si management, include 4x Acumulator 12V 9Ah, TED Electric, TED004055",2230.00
 "Rack 42U, 600×600 mm, montare pe podea, neasamblat, negru, usa perforata, DataLink, 42u600x600",2249.00
 "UPS Rackabil, 3000VA, 2700W, sinusoida pura, Safer, UPS_RACK_3000VA",2320.00

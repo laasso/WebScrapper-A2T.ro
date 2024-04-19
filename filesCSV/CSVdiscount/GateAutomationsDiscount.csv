@@ -1,5 +1,4 @@
 Product,Price
-Baterie LR27 pentru telecomenzi automatizare de poarta motorline,0.50
 Baterie CR2016 pentru telecomenzi REBEL EXTREME BAT0194,2.90
 "Capac brat bariera compatibil cu bariera Boomx PRO 100, YK-BAR1H/CAP",4.20
 Distantier cu surub pentru cremaliera metalica CAVRN3,4.20
@@ -71,15 +70,15 @@ Placa de ghidaj superioara 2 role,66.14
 "Maner usa de garaj, dublu",68.00
 "Lampa de semnalizare pentru automatizare de porta Linomatik 230V, V2-14B0008",69.00
 Telecomanda automatizare Beninca - Compatibila,69.00
-"Telecomanda 2 butoane LIFE, DREAM",69.00
 "Telecomanda cu 2 butoane LIFE DREAM-AZZ, 433.92MHz, compatibila cu toate automatizarile Life",69.00
+"Telecomanda 2 butoane LIFE, DREAM",69.00
 "Telecomanda 4 butoane automatizari de porti LIFE, DREAM04",69.00
 "Telecomanda cu 4 butoane, 433.92, Tehnologie Rolling Code, compatibila cu automatizarile Linomatik, Lino4RC",69.00
 "Ghidaj superior 2 role, GS85-2",69.00
 "Telecomanda cu 3 butoane pentru automatizari, compatibila cu UR01, RC06",69.00
 Rola de sustinere pentru sina C65,72.00
-"Prindere brat pentru automatizarile OPTIMO3 / OPTIMO5 de suportul de poarta, Life 5RI1060000",73.00
 "Suport pentru stalp compatibil cu automatizarile Life OPTIMO3 si OPTIMO 5, 5RI1040000",73.00
+"Prindere brat pentru automatizarile OPTIMO3 / OPTIMO5 de suportul de poarta, Life 5RI1060000",73.00
 "Opritor capat de cursa inferior, galvanizat HC75",73.00
 Telecomanda clona pentru automatizarile LIFE BRAVO2,74.00
 "Telecomanda compatibila Ditec, Nice Flor-s, V2",75.00
@@ -99,8 +98,8 @@ Lampa de semnalizare 220V pentru automatizari Life,82.95
 Fotocelule de siguranta pentru automatizarile Linomatik FTG180,84.00
 "Set radiocomanda cu un receptor si o telecomanda, WBK-401-2-12/24",84.00
 "Telecomanda 2 canale, Rolling code, 433.92 Mhz, pentru automatizari Comunello, VICTOR 2 RC, GVCTR2STN0G00",85.00
-"Telecomanda cu afisaj unidirectional, 4 butoane, 433.92MHz, Rolling Code, pentru automatizarile Linomatik, Lino5TR",89.00
 Selector cu cheie LIFE pentru automatizari de porti,89.00
+"Telecomanda cu afisaj unidirectional, 4 butoane, 433.92MHz, Rolling Code, pentru automatizarile Linomatik, Lino5TR",89.00
 "Set fotocelule compatibile cu automatizarile de porti LINOMATIK, PC02",89.00
 "Telecomanda pentru automatizari de poarta Life cu 4 taste, MAXI04-BLUE",90.00
 "Telecomanda 2 butoane pentru automatizari Life, FIDO2",90.00
@@ -201,8 +200,8 @@ Senzor de miscare cu microunde negru VZ-MS01-B,193.00
 "Fotocelule de siguranta cu baterii, reglabile, Comunello DART-BATTERY",199.00
 Receptor radio extern pentru automatizari 2 canale LIFE,199.00
 "Ax compatibil cu Optimo 3 UNI si Optimo 5, Life 5RI0990000",201.00
-"Curea de schimb pentru automatizarile de usi de garaj ELEVOKIT620 si ELEVOKIT1000, KING GATES 1725D3",209.00
 "Angrenaj de tractiune pentru automatizarea KING GATES ROLLSK1200.02, KG172585",209.00
+"Curea de schimb pentru automatizarile de usi de garaj ELEVOKIT620 si ELEVOKIT1000, KING GATES 1725D3",209.00
 "Receptor radio cu 2 canale, compatibil cu barierele Life, Fast R2",209.00
 "Suport fixare usa din sticla pentru automatizare usa glisanta, aluminiu",223.00
 Baterie suplimentara pentru KING GATES,223.00
@@ -299,6 +298,14 @@ Placa de baza pentru automatizari culisante LINOMATIK K1/ID101,450.00
 "Carcasa brat OPTIMO3, 5RI1010000",466.00
 "Reflector LED 35W, cu panou solar, temperatura 4000K, V-Tac, VT-100W, SKU-8576",480.00
 "Placa de control pentru Automatizarile Comunello Fort CU-24V-HP, GCU00HP2L0G00",499.00
+"Limitator de cursa cu arc pentru automatizari Linomatik Spring Limit Switch, SL-LIMIT-SW",500.00
+"Capacitor pentru automatizarile Linomatik Slide, SL-CAPACITOR",500.00
+Cheie de motor pentru pentru automatizarile Linomatik Slide SL-KEY,500.00
+Roata compatibila cu automatizarile Linomatik Slide SL-WHEEL,500.00
+"Capac compatibil cu automatizarile Linomatik Slide, SL-COVER",500.00
+Placa de comanda si carcasa pentru automatizarile Linomatik Slide SL-BOARD-BASE,500.00
+Angrenaj motor pentru automatizarile Linomatik Slide SL-GEAR,500.00
+Incuietoare manuala pentru automatizarile Linomatik Slide SL-LOCK,500.00
 "Placa de baza automatizare culisanta, LIFE ACER RG1R DL 1AH0160000",510.00
 Gard pentru barierele Life SUD2MG,519.00
 "Controler GSM 2G, 2 Relee, pentru deschideri de porti, ESIM320-2GEU",525.00
@@ -415,6 +422,7 @@ Automatizare poarta culisanta 1500KG Linomatik SLIDE15KIT-N-FULL,1602.99
 "Automatizare culisanta, suporta pana la 1 Tona, Motor 24V, Comunello Fort 1000, GKFT100ELB000A",1649.00
 "Automatizare porti batante, pana la 2x3m, 2x400kg, Comunello RAM 300 24V, GKRM3000LB903",1659.00
 "Automatizare poarta batanta 2x3 metri, 2x300 kg, trafic intens, LINEARK40024",1689.00
+"Automatizare porti batante Comunello RAM 300 24V, pana la 2x3m, 2x400kg, placa HP, IP44, GKRM300HLB900",1699.00
 "Kit automatizare poarta batanta 2x3 Metri Life Optimo 3 Skyline, OPTIMO3 SKY",1719.00
 "Automatizare pentru poarta culisanta 800 KG, Comunello Fort 800 230 VAC, GKFT080EHB000A",1749.00
 "Feronerie poarta culisanta autoportanta in consola 600KG, sina 6m Galvanizata, C75/8",1765.00
@@ -423,6 +431,7 @@ Automatizare poarta culisanta 1500KG Linomatik SLIDE15KIT-N-FULL,1602.99
 "Automatizare poarta batanta 2 x 4.5 metri sau 2 x 300kg, trafic intens, KING GATES LINEARK50024",1799.00
 "Kit pentru automatizare poarta cu accesorii si 4 metri cremaliera metalica, Comunello Fort 1000 24V",1803.99
 "Automatizare porti batante, pana la 2x5m, 2x500kg, Comunello RAM 500 230V, GKRM5000HB901",1819.00
+"Automatizare porti batante Comunello RAM 500 230V, 2x5m, 2x500kg, placa HP, IP44, GKRM500HHB900",1819.00
 Automatizare poarta culisanta 1200Kg LIFE,1821.00
 "Automatizare de poarta culisanta 1000KG, 24V, Uz intensiv, King Gates DYKIT24/1000",1859.00
 Kit automatizare poarta batanta brat articulat Life KIT ARMOR,1869.00
@@ -433,6 +442,7 @@ Kit automatizare poarta batanta brat articulat Life KIT ARMOR,1869.00
 "Automatizare de poarta culisanta 1000 kg, uz intensiv, 24 V, KING GATES",2012.99
 "Automatizare porti batante 2x3m / 2x400Kg Comunello Abacus 300, 230V, Encoder performant, Kit complet, GKAS300MEH900",2090.00
 "Automatizare pentru porti batante 1x2.2m, 2x220kg, 24V, Encoder performant, Comunello Abacus 220 GKAS220MLB908",2179.00
+"Controler cu receptor radio Quiko QK-CE220CTD, accepta maxim 4 bolarzi, 230V, display LED, IP55",2199.00
 "Automatizare poarta culisanta, 1500 kg, 230V, Comunello FORT 1500, GKFT150EHB000A",2199.00
 Automatizare de poarta culisanta 1500Kg LIFE ACER1500,2269.00
 Automatizare usa de garaj industriala LIFE VIS,2365.00
@@ -442,7 +452,6 @@ Kit automatizare poarta batanta 2x5 metri Life Optimo5,2389.00
 "Automatizare de poarta culisanta pentru trafic intens 1800 KG, King Gates Dynamos XL",2461.99
 "Stalp fix pentru restrictionare acces auto, 570 mm, otel inoxidabil 2.5 mm, MPIE5/600",2474.00
 Afisajul de orientare cu 2 directii - RF-PD13C-2,2520.00
-"Controler cu receptor radio Quiko QK-CE220CTD, accepta maxim 4 bolarzi, 230V, display LED, IP55",2615.00
 "Kit automatizare poarta autoportanta in consola complet pentru 400 KG, cu motor si feronerie KITPOARTA600-FULL",2638.99
 "Kit automatizare Porti Culisante pana la 2T, 2000 KG Life Acer 2000, Motor 230V, 1800N, 450W",2679.00
 "Corp bariera acces auto King Gates NUUR4, 24V, 4m",2689.00
@@ -453,8 +462,8 @@ Camera ip 2MP LPR 5.3~64 mm 100FPS Milesight MS-C2966-X12TLPC,2849.00
 "Kit bariera acces auto, trafic intens, lungime 4m, King Gates, KIT-OPEN4000",2908.99
 Kit automatizare poarta autoportanta in consola complet pentru 500 KG,2938.99
 Camera ip LPR (ANPR) 512 MB FullHD Releu integrat BL-852Q38A-LP,2950.00
-Automatizare batanta Life brat articulat 400KG pe canat,2999.00
 Bariera acces auto 4 metri LIFE 230V SUPRA4,2999.00
+Automatizare batanta Life brat articulat 400KG pe canat,2999.00
 Automatizare poarta culisanta industriala 2500KG King Gates DYNAMOS 2500 XL,3059.99
 "Kit feronerie pentru poarta culisanta la 90°, curba cu R=0.5m, Otel Galvanizat, KA8103.050",3227.00
 "Bariera acces auto 3 metri, LIFE, trafic intens 24V SUPRAMB324",3299.00
@@ -499,7 +508,7 @@ Bariera acces 6 metri trafic intens LIFE SUPRA MB MAX SUPRA_MB_MAX,5299.00
 Terminal iesire cu cartele SEKA P-IE-R,7716.45
 "Kit accesorii feronerie pentru poarta culisanta telescopica 3X2 metri, 200kg/semifoaie, Deschidere 6m, FAC KA5102.002",8180.00
 "Bolard retractabil pentru limitarea accesului auto Quiko QK-CT115500, diametru de 115mm, inaltime de 500mm, IP67",10600.00
-"Bolard retractabil pentru limitarea accesului auto Quiko QK-CT193700L, diametru 193mm, inaltime 700mm, 230V, IP67",13255.00
+"Bolard retractabil pentru limitarea accesului auto Quiko QK-CT193700L, diametru 193mm, inaltime 700mm, 230V, IP67",14660.00
 Pachet 10 automatizari Comunello MIX 10,16935.99
 Server cu software de gestionare Parking Management,18900.00
 "Statie de plata parcare manuala, cu operator, software inclus, sistem de eliberare tichete cu buton",23749.00
