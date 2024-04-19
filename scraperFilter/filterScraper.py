@@ -5,7 +5,7 @@ import csv
 import time
 import os
 
-class WebScraper:
+class FilterScrapper:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
         self.driver = webdriver.Chrome(options=self.options)

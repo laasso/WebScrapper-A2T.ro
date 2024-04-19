@@ -1,5 +1,5 @@
 # main.py
-from scraper.webscraper import WebScraper
+from scraperFilter.filterScraper import FilterScrapper
 
 def read_urls_and_filenames(filename):
     urls_and_filenames = []
@@ -9,7 +9,7 @@ def read_urls_and_filenames(filename):
             urls_and_filenames.append((url.strip(), csv_filename.strip()))
     return urls_and_filenames
 def main():
-    scraper = WebScraper()
+    scraper = FilterScrapper()
     urls_and_filenames = read_urls_and_filenames('../INFO/filterSites.txt')
     for url, csv_filename in urls_and_filenames:
         scraper.scrape(url, csv_filename)
