@@ -1,4 +1,5 @@
 Product,Price
+<<<<<<< Updated upstream
 "Mufa RJ11 pentru cablu telefon, 6 pini 4 contacte, RJ11","0 , 20 Lei"
 "Mufa receptor telefon, 4 pini, 4 contacte, RJ10","0 , 20 Lei"
 "Mufa RJ45 UTP/ FTP cu 8 pini 8P8C, CAT5E, TEL0004A","0 , 23 Lei"
@@ -1184,3 +1185,55 @@ la comanda"
 la comanda"
 =======
 >>>>>>> 4fdf211a82ec14ddbba9b338f4cb01204ffdd5b2
+=======
+"Mufa RJ11 pentru cablu telefon, 6 pini 4 contacte, RJ11",0.20
+"Mufa receptor telefon, 4 pini, 4 contacte, RJ10",0.20
+"Mufa RJ45 UTP/ FTP cu 8 pini 8P8C, CAT5E, TEL0004A",0.23
+Manson de protectie pentru mufa RJ-45 FTP/UTP BT5GY,0.25
+"Protectie mufa RJ45 pentru cablu UTP, FTP, SFTP, albastru, Logilink MP0008",0.29
+Mufa UTP 8p8c Cat6E,0.30
+"Manson Mufa RJ45 pentru cablu UTP, FTP si SFTP, BT5WH",0.34
+"Protectie mufa RJ45 pentru cablu UTP, FTP, SFTP, rosu, Logilink MP0010",0.35
+"Manson Mufa RJ45 pentru cablu UTP, LOGILINK MP0006",0.35
+"Mufa RCA TATA rapida cu insurubare, WTY0640",0.43
+"Mufa RJ45 UTP / FTP, 8 pini, cu ecranaj metalic, CAT5E, TEL0005A",0.45
+"Mufa alimentare camera TATA cu surub, DCM",0.47
+"Mufa BNC Tata - BNC Tata, BNCM-M",0.55
+"Mufa RCA Tata - BNC Mama, BNCF-RCAM",0.59
+"Adaptor BNC Mama – Mama, BNCF-F",0.61
+"Mufa F pentru BNC cu filet RG6U, WTY0455",0.65
+Conector neecranat Pass Through RJ45 CAT5E TEL0071,0.69
+"Mufa RJ45, 8 pini, CAT 6E, UTP/FTP, ecranaj metalic, PLUG6SP",0.75
+"Mufa DCF pentru alimentare camera Mama cu surub, DCF",0.84
+"Conector BNC M coaxial RG6, BNC-W/55",0.89
+"Mufa BNC tata RCA tata, B15",0.91
+"Mufa RJ45, 8 pini, UTP/FTP, ecranaj metalic, Pass Trough, CAT 6, TEL0074",0.95
+"Mufa BNC Tata RCA Mama, BNCM RCAF",0.99
+"Conector ecranat Rj45 CAT5E, RJ45HOLE",0.99
+"Mufa camera BNC Tata F Mama, ZLA 0477",0.99
+Adaptor F Mama / F mama Cupru,0.99
+"Mufa de alimentare tata cu terminale PUSH – DCM, DCM-PUSH",1.17
+"Mufa Bnc cu protectie cablu, BNC-SCREW",1.19
+"Conector neecranat Pass Through RJ45 CAT 6E, TEL0072",1.19
+"Adaptor pentru cablu coaxial, in forma de T cu 1 mufa F tata la 2 mufe F mama, ZLA0458",1.20
+"Mufa BNC M - UTP cu surub, BNCM-D",1.25
+"Manson de protectie pentru mufa RJ45, UTP, FTP, SFTP MP0035G",1.29
+"Manson de protectie pentru mufa RJ45, UTP, FTP, SFTP, Cat6, MP0035R",1.29
+"Conector universal 2 x 0.75-2.5MM, ZLA0950",1.49
+"Presetupa PG13.5, 13mm, IP68, gri, Elmark 500135",1.49
+"Mufa BNC Tata sertizabila RG59, WTY0474-2",1.49
+Mufa BNC cu surub si protectie cablu,1.60
+"Mufa BNC TATA sertizabila RG6U, WTY0474-3",1.79
+"Adaptor utp mama-mama pentru mufa RJ45, CAT5, TEL0021-2",1.79
+"Mufa BNC Tata 90 de grade, WTY0495",1.79
+"Distribuitor alimentare 2 iesiri TATA, C2",1.80
+"Mufa de alimentare mama cu terminale, DCF-PUSH",1.99
+Mufa BNC F la RCA F,1.99
+"Mufa alimentare mama cu fir DCF-WIRE, DCF-WIRE",2.49
+"Mufa BNC RG59 Compresie, CBN-051 RG59",2.49
+"Mufa alimentare tata cu fir DCM-WIRE, DCM-WIRE",2.49
+"Adaptor F tata - F mama 90 Cupru, ZLA2561",2.49
+"Banda izolatoare 19mm, PVC, autostingere, Freder 9-1116",3.49
+"Mufa BNC RG6 Compresie, CBN-051 RG6",3.60
+"Banda de izolat ignifuga 20 metri, BANDA20ABS",3.99
+>>>>>>> Stashed changes

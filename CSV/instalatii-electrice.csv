@@ -1,4 +1,5 @@
 Product,Price
+<<<<<<< Updated upstream
 "Piulita inox, M8 A2, Dreptunghiulara, M8P-DR","1 , 28 Lei(9% TVA)"
 "Piulita inox cu flansa autoblocabila M10, A2, Hexagonala, M10P-FL","1 , 36 Lei(9% TVA)"
 "Piulita inox cu flansa autoblocabila M8, A2, Hexagonala, M8P-FL","1 , 46 Lei(9% TVA)"
@@ -746,3 +747,55 @@ Sistem fotovoltaic monofazat complet OFF-GRID 3KW (stocare 5KW) montaj pe acoper
 "Acumulator Huawei 15KW, BMS, trei baterii LUNA2000-5, LUNA2000-15-S0","33270 , 06 Lei (TVA 9%)"
 "Sistem fotovoltaic ON-GRID 12KW, trifazat, montaj pe acoperis din tigla, KIT12KW-3FAZE-HUAWEI455","33759 , 47 Lei (TVA 9%)"
 "Invertor 250 kW, 12 MPPT, 180A, PLC integrat, Goodwe HT 1500V GW250K-HT","35043 , 04 Lei(9% TVA)"
+=======
+"Piulita inox, M8 A2, Dreptunghiulara, M8P-DR",1.28
+"Piulita inox cu flansa autoblocabila M10, A2, Hexagonala, M10P-FL",1.36
+"Piulita inox cu flansa autoblocabila M8, A2, Hexagonala, M8P-FL",1.46
+"Surub M10x30 cap hexagonal, inox, M10X30-HEX",1.55
+"Surub M8x30 cap hexagonal, inox, M8X30-HEX",1.55
+"Surub M8x25 cap hexagonal, inox, M8x25-HEX",1.55
+"Surub M8x30 cap imbus, Inox, M8X30-IMBUS",1.82
+"Surub M8x25 cap imbus, Inox, M8X25-IMBUS",1.82
+"Surub M8X30 cap T - BOLT, inox, M8X30-TBOLT",2.55
+"Surub M10X30 cap T - BOLT, inox, M10X30-TBOLT",2.55
+"Piullita cu fanta M8, PFM8-22X10",2.74
+"Capac gri, 40 x40, plastic, pentru sine fixare panouri fotovoltaice, CAPAC40x40-G",2.74
+"Capac negru, 40 x40, plastic, pentru sine fixare panouri fotovoltaice, CAPAC40x40-N",2.74
+"Siguranta Auto 15A, albastru",2.99
+"Placa de capat pentru prinderea panourilor solare, din aluminiu, 50x27 mm compatibil cu surub M8, SAF-FIX20",4.57
+"Suport capat din aluminiu pentru prindere panouri solare, 50x27 mm, compatibil cu suruburi M8, FIX27X33X44-C",4.57
+"Ramă 1 post , aparataj de camera cu montaj ingropat, gama Karre Plus Panasonic",4.19
+"Prindere pentru mijloc din Aluminiu, pentru panouri solare, 1 gaura M8, SAF-FIX22",4.57
+Conector cablu Solar Orno MC4 4/6 mm,5.04
+"Pat de cablu 16x16mm, 2 metri cu capac",4.99
+"Doza aplicata de exterior IP54 100x100, 5232H",5.49
+"Modul 3 led-uri SMD 1.5W, Albastru, IP67, Exterior",5.49
+"Suport fixare sina pentru acoperis 100x30x40, 100X30X4-ADAPT",6.40
+"Adaptor pentru stecher priza Anglia / Romania, ALB, UK/RO-ALB",5.99
+"Adaptor pentru stecher priza Anglia la priza din Romania, UK - RO-NEGRU",5.99
+"Clema de mijloc pentru fixarea panourilor solare, prindere cu clips, surub inclus, Safer SAF-MIJLOC-CLIPS",7.31
+"Clema de capat cu clips, pentru prinderea panourilor solare, surub inclus, SAF-CAPAT-CLIPS",7.31
+"Rama orizontala 3 posturi, aparataj de camera cu montaj ingropat, Karre Plus Panasonic P-KPR30",7.20
+"Element de fixare pentru sine 40x40, Aluminiu, FIX40X40",8.23
+"Conector pentru profil panouri solare, din Aluminiu, 40x40mm, SAF-FIX5",8.23
+"Comunicator internet LAN pentru gestiune online a invertoarelor Growatt -X si XE, SHINE-LAN-X",9.15
+"Rama orizontala 2 posturi, aparataj de camera cu montaj ingropat, Karre Plus Panasonic",8.99
+Doza aplicata pentru aparataj,8.99
+"Conector banda LED cu fir dublu V-Tac SKU-2661, 10mm",8.99
+"Conector L V-Tac SKU-2662, pentru banda LED, 10mm",8.99
+"Doza derivatie 100 x 100 x 50 mm Gewiss, DOZAGEWISS",8.99
+Intrerupator aplicat Panasonic IP54 VI-A1,9.99
+"Rama verticala 2 posturi, aparataj de camera cu montaj ingropat, Karre Plus Panasonic",9.99
+Intrerupator cap scara Panasonic VI-ASC,10.49
+"Intrerupator simplu alb normal/deschis cu montaj incastrat, IP 20, Karre Plus Panasonic",10.99
+"Doza cu presetupe si suruburi 110X110X74, CUTIE110X110X74",10.99
+"Clema de mijloc pentru fixarea panourilor solare, prindere cu clips, Aerocompact CLM10",12.54
+"Comutator simplu alb cu 2 butoane, montaj incastrat, IP20, Arkedia Panasonic P-A2",11.99
+"Intrerupator cap scara cu revenire, montaj incastrat, Karre Plus Panasonic",12.49
+"Siguranta cilindrica 1000V 15A, 10x38mm, Freder, 88-8150",13.73
+Comutator aplicat Panasonic IP54 VI-A2,12.99
+Priza aplicata Panasonic VI-AS,12.99
+"Rama orizontala 3 posturi, aparataj de camera cu montaj ingropat, Karre Plus Panasonic",12.99
+"Clema de capat cu clips, pentru prinderea panourilor solare, surub inclus, Aerocompact CLE10",14.17
+Buton sonerie alb Karre Plus Panasonic,13.49
+>>>>>>> Stashed changes
