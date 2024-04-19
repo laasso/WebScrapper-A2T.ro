@@ -1,4 +1,3 @@
-# scraper/webscraper.py
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import csv
@@ -13,29 +12,18 @@ class FilterScrapper:
     def scrape(self, url, csv_filename):
         # Load the web page
         self.driver.get(url)
+        self.driver.maximize_window()
 
         # Wait for a few seconds to ensure that the page is fully loaded (you can adjust the time as needed)
         time.sleep(5)
 
-        # Wait X second to login to get the spoecial geust price
-        time.sleep(60)
-        print("Start Scrapping")
+        # Wait X second to login to get the special guest price
+        time.sleep(1)
+        print("Start Scraping")
 
-        # Simulate scrolling down to load more elements
-        last_height = self.driver.execute_script("return document.body.scrollHeight")
-        while True:
-            # Scroll down
-            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            # Wait for new elements to load
-            time.sleep(2)
-            # Calculate new height of the page
-            new_height = self.driver.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
-                break
-            last_height = new_height
+        # Find all elements containing products with the specified filter
+        filters  = self.driver.find_elements(By.CSS_SELECTOR, 'span[data-v-00c75b6d=""]')
 
-        # Find all elements containing product details
-        products = self.driver.find_elements(By.CLASS_NAME, 'product-item')
 
         # Create a CSV file at the specified path
         csv_path = os.path.join(csv_filename)  # Replace "path" with the specific path
@@ -43,22 +31,18 @@ class FilterScrapper:
             # Create the CSV writer
             writer = csv.writer(csvfile)
             # Write headers
-            writer.writerow(['Product', 'Price'])
+            writer.writerow(['Filter'])
 
-            # Iterate over product elements and extract names and prices
-            for product in products:
-                # Extract product name
-                name = product.find_element(By.CLASS_NAME, 'product-item-link').text.strip()
+            # Iterate over filter elements and extract names
+            for filt in filters:
+                # Extract filter name
+                name = filt.text.strip()
+                print(name)
+                writer.writerow([name])
 
-                # Extract product price
-                price = product.find_element(By.CLASS_NAME, 'price').text.strip()
-                parts = price.split()
-                price = parts[0] + "." + parts[2]
-                print(price)
-                writer.writerow([name, price])
-
-        print("All products from {} have been saved in {}.".format(url, csv_path))
+        print("All filters from {} have been saved in {}.".format(url, csv_path))
 
     def close(self):
         # Close the browser
         self.driver.quit()
+

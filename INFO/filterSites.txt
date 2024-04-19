@@ -1,4 +1,4 @@
-https://www.a2t.ro/kituri-supraveghere-video, ../CSVfilter/kituri-supraveghere-videoFilter.csv
-https://www.a2t.ro/supraveghere-video, ../CSVfilter/supraveghere-videoFilter.csv
-https://www.a2t.ro/accesorii-supraveghere, ../CSVfilter/SurveillanceAccessoriesFilter.csv
-https://www.a2t.ro/automatizari-porti, ../CSVfilter/GateAutomationsFilter.csv
+https://www.a2t.ro/kituri-supraveghere-video, ../../filesCSV/CSVfilter/kituri-supraveghere-video.csv
+https://www.a2t.ro/supraveghere-video, ../../filesCSV/CSVfilter/supraveghere-videoFilter.csv
+https://www.a2t.ro/accesorii-supraveghere, ../../filesCSV/CSVfilter/SurveillanceAccessoriesFilter.csv
+https://www.a2t.ro/automatizari-porti, ../../filesCSV/CSVfilter/GateAutomationsFilter.csv
