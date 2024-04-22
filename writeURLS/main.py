@@ -16,6 +16,6 @@ def generar_txt_desde_csv(nombre_archivo_csv, nombre_archivo_txt):
             file.write(f"{url}, {ruta_csv}\n")
 
 # Ejemplo de uso
-nombre_archivo_csv = "/home/lasso/WebScrapper-A2T.ro/filesCSV/CSVurls/URLS.csv"
-nombre_archivo_txt = "/home/lasso/WebScrapper-A2T.ro/INFO/informacion.txt"
+nombre_archivo_csv = "/home/lasso/WebScrapper-A2T.ro/filesCSV/CSVfinale/brandsurl.csv"
+nombre_archivo_txt = "/home/lasso/WebScrapper-A2T.ro/INFO/informacionURL.txt"
 generar_txt_desde_csv(nombre_archivo_csv, nombre_archivo_txt)

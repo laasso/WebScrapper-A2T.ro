@@ -10,7 +10,7 @@ def read_urls_and_filenames(filename):
     return urls_and_filenames
 def main():
     scraper = WebScraper()
-    urls_and_filenames = read_urls_and_filenames('../INFO/sites&files.txt')
+    urls_and_filenames = read_urls_and_filenames('../../INFO/informacionURL.txt')
     for url, csv_filename in urls_and_filenames:
         scraper.scrape(url, csv_filename)
     scraper.close()
