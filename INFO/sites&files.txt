@@ -1,4 +1,0 @@
-https://www.a2t.ro/kituri-supraveghere-video, ../filesCSV/CSV/kituri-supraveghere-video.csv
-https://www.a2t.ro/supraveghere-video, ../filesCSV/CSV/supraveghere-video.csv
-https://www.a2t.ro/accesorii-supraveghere, ../filesCSV/CSV/SurveillanceAccessories.csv
-https://www.a2t.ro/automatizari-porti, ../filesCSV/CSV/GateAutomations.csv
