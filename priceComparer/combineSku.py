@@ -1,10 +1,10 @@
 import pandas as pd
 
 # Read the combined CSV file of discounted and original prices
-combined_prices = pd.read_csv("../filesCSV/CSVcombined/combined_data.csv")
+combined_prices = pd.read_csv("/home/lasso/WebScrapper-A2T.ro/filesCSV/CSVcombined/combined_data.csv")
 
 # Read the CSV file containing names and codes
-provided_data = pd.read_csv("../filesCSV/CSVsku/sku_names.csv")
+provided_data = pd.read_csv("/home/lasso/WebScrapper-A2T.ro/filesCSV/CSVsku/sku_names.csv")
 
 # Combine the DataFrames based on the "Product" column
 final_data = pd.merge(combined_prices, provided_data, on="Product", how="inner")

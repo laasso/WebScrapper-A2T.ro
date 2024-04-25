@@ -18,7 +18,7 @@ class WebScraper:
         time.sleep(5)
 
         # Wait X second to login to get the spoecial geust price
-        time.sleep(1)
+        time.sleep(35)
         print("Start Scrapping")
 
         # Simulate scrolling down to load more elements
