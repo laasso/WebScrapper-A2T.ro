@@ -24,23 +24,28 @@ class dataTreat:
                 except:
                     None
         return prodArray
-    
+
     def addPriceDifference(self, path) -> list:
         prodArray: list = []
         prodArray = self.convertPriceString(path)
         for product in prodArray:
             try:
-                product.append.round((product[-2] - product[-1]))
+                product.append(product[-2] - product[-1])
             except:
                 None
         return prodArray
 
     def sortByPriceDifference(self, path) -> list:
         prodArray: list = []
+        prodArraySort: list = []
         prodArray = self.addPriceDifference(path)
+        valid_products = []
         for product in prodArray:
-            try:
-                prodArray.sort(key=lambda x: x[-1], reverse=True)
-            except:
-                None
-        return prodArray
+            if len(product) >= 4:
+                try:
+                    if isinstance(product[-1], (int, float)) and product[-1] >= 0:
+                        valid_products.append(product)
+                except TypeError:
+                    print(f"Non-iterable value found at position: {product[-1]}")
+        prodArraySort = sorted(valid_products, key=lambda x: x[-1], reverse=True)
+        return prodArraySort
