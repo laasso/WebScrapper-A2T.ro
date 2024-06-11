@@ -17,8 +17,10 @@ class dataTreat:
         prodArray: list = []
         prodArray = self.readCsv(path)
         for product in prodArray:
-            for attribute in product:
-                product[-2:] = float(attribute[-2:])
+           if len(product) >= 4:
+                try:
+                    product[-2] = float(product[-2])
+                    product[-1] = float(product[-1])
+                except:
+                    None
         return prodArray
-
-
