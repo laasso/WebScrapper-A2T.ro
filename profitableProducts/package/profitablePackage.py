@@ -24,3 +24,23 @@ class dataTreat:
                 except:
                     None
         return prodArray
+    
+    def addPriceDifference(self, path) -> list:
+        prodArray: list = []
+        prodArray = self.convertPriceString(path)
+        for product in prodArray:
+            try:
+                product.append.round((product[-2] - product[-1]))
+            except:
+                None
+        return prodArray
+
+    def sortByPriceDifference(self, path) -> list:
+        prodArray: list = []
+        prodArray = self.addPriceDifference(path)
+        for product in prodArray:
+            try:
+                prodArray.sort(key=lambda x: x[-1], reverse=True)
+            except:
+                None
+        return prodArray
