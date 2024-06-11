@@ -49,3 +49,12 @@ class dataTreat:
                     print(f"Non-iterable value found at position: {product[-1]}")
         prodArraySort = sorted(valid_products, key=lambda x: x[-1], reverse=True)
         return prodArraySort
+
+    def writeToCSV(self, path, pathInit) -> None:
+        prodArray: list = []
+        prodArray = self.sortByPriceDifference(pathInit)
+        with open(path, mode='w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Product', 'Category', 'Price', 'Discount', 'Price Difference'])
+            for product in prodArray:
+                writer.writerow(product)
